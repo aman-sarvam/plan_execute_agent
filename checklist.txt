@@ -1,0 +1,4 @@
+
+    Plan: Use Google Search to find the latest tax laws in India. #E1 = Google Search[latest tax laws in India]
+    Plan: Analyze the search results to identify the most recent changes and updates in tax laws. #E2 = LLM[Analyze recent changes in tax laws, given #E1]
+    Plan: Generate HTML report summarizing the key findings from the analysis of recent tax law changes. #E3 = HTML Generator[Summarize key findings from tax law analysis]
